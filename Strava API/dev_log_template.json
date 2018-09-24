@@ -2,7 +2,7 @@
   "client_ID": 0,      // Your Strava ID (Can be found on your profile page's URL (the number on the end of it)) [type=integer]
   "client_secret": "", // Your Client Secret (After registering your application on Strava's site, go to "Settings" and click in "My API Application") [type=string]
   "acess_token": "",   // Your Acess Token (After registering your application on Strava's site, go to "Settings" and click in "My API Application") [type=string]
-  "club_ID": 0         // Club ID (Cab de found on club page's URL (the number on the end of it). It's optional, but if you're acessing a certain club's data it's useful to write the ID here.) [type=integer]
+  "club_ID": 0         // Club ID (Can de found on club page's URL (the number on the end of it). It's optional, but if you're acessing a certain club's data it's useful to write the ID here.) [type=integer]
 }
 
 // ATTENTION!!!
