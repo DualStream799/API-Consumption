@@ -1,0 +1,11 @@
+{
+  "twilio_account_sid": "", // Your Twilio Account SID (Can be found on your Twilio Console) [type=string]
+  "twilio_auth_token": "",  // Your Twilio Auth Token (Can be found on your Twilio Console) [type=string]
+  "to_number": "",          // Your verified phone number without the '+' (Can be found on "All Products & Services" -> "Phone Numbers" -> "Verified Caller IDs")[type=string]
+  "from_number": ""         // Twilio's number without the '+' (Can de found on the Twilio Console [via SMS] or on the Twilio Sandbox configuration page [via WhatsApp])  [type=string]
+}
+
+// ATTENTION!!!
+// The program is configurated to read and export files outside this directory, avoiding sensitive data to be uploaded on GitHub
+// It's recommended to move this file instead of modificate the code
+// After write your data remember to insert 
